@@ -79,3 +79,19 @@ Copied File "abc.txt" to abc
 ### rm abc.txt
 
 Removed File "abc.txt"
+
+# How to Run
+
+### Install NodeJS
+
+### Clone the repo
+
+git clone "https://github.com/dibyadyutiKar/inito-assignment.git"
+
+### Naviate to project directory
+
+cd assignment-inito
+
+### Run npm install
+
+### Run node main.js
